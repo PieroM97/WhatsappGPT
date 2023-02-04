@@ -1,0 +1,5 @@
+openai>=0.26.4
+twilio>=7.16.2
+Flask>=2.2.2
+Werkzeug>=2.2.2
+config>=0.5.1

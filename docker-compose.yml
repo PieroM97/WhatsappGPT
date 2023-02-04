@@ -1,0 +1,22 @@
+version: '3.7'
+services:
+  gpt-whatsapp:
+    image: gpt-whatsapp
+    restart: always
+    container_name: gpt-whatsapp
+    ports:
+     - 5000:5000
+    deploy:
+     resources:
+      limits:
+       memory: 800M
+  ngrok:
+    image: shkoliar/ngrok:latest
+    ports:
+      - 4551:4551
+    links:
+      - gpt-whatsapp
+    environment:
+      - DOMAIN=gpt-whatsapp
+      - PORT=5000
+

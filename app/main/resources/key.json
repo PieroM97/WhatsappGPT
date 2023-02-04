@@ -1,0 +1,6 @@
+{
+  "twilio_sid": "xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "twilio_key":"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "openai_key":"sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "phone_number":"whatsapp:+xxxxxxxxxx"
+}
