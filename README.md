@@ -16,7 +16,10 @@ Overall, the chatbot using the Davinci model is an efficient and user friendly w
 
 Just chat with it. Send a message starting with "image:" to generate a photo. For example: 
 
-> Someone running under the eiffel tower 
+> An apple that is running under the eiffel tower 
+
+![alt text](/eiffel.jpeg?raw=true)
+
 
 ## Configuration
 
