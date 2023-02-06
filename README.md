@@ -1,9 +1,6 @@
-# WhatsappGTP
-
 ![alt text](/logo.png?raw=true)
 
-
-## Introduction
+# A GPT3-powered Chatbot Companion for WhatsApp
 
 This project is a simple chatbot for WhatsApp using OpenAI's GPT-3 language model, ChatGPT. The chatbot uses Twilio's API to communicate with WhatsApp. The configuration of the bot is done through a file called keys.json where you will need to input your OpenAI API key and Twilio API keys.
 
