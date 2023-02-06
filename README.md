@@ -1,6 +1,6 @@
 # WhatsappGTP
 
-![alt text](/logo.jpeg?raw=true)
+![alt text](/logo.png?raw=true)
 
 
 ## Introduction
