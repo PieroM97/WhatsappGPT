@@ -1,0 +1,11 @@
+{
+
+  "openai": "your_openai_key",
+
+   "twilio_account_sid": "your_twilio_account_sid",
+
+   "twilio_auth_token": "your_twilio_auth_token",
+
+   "whatsapp_number": "your_twilio_whatsapp_number"
+
+}
